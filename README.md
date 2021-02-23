@@ -1,8 +1,8 @@
-#Minecraft Server Playtime
+#CraftTime
+A Minecraft server plugin to track playtime of users connected to the server.
 
 ##Plugin Idea
-Track the time that a user is connected to the server. There are a number
-of possible use cases for this:
+There are a number of possible use cases for this plugin:
 - Calculating fair monthly fees for players based on server usage.
 - Rewarding players based on the amount of time 
 spent on the server
